@@ -7,8 +7,8 @@ q - for quit
 
 if you enter wishe  number it prints for you longest pallindrom from this file as:
 
-   The longest palindrom is:
-   • Madam, I’m Adam
+    The longest palindrom is:
+    • Madam, I’m Adam
 
 For suggestion choose you have two files. "Alice in Wonderland" doesn't contain a lot of palindromes ;)
 But content of last file is special and easy:
