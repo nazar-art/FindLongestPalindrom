@@ -1,0 +1,5 @@
+Typical examples of palindromes are:
+• A man, a plan, a canal—Panama!
+• Go hang a salami, I’m a lasagna hog.
+and, of course, the oldest palindrome of all:
+• Madam, I’m Adam.
