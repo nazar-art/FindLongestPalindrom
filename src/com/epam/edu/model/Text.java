@@ -4,23 +4,23 @@ import java.util.ArrayList;
 
 public class Text {
 
-	private ArrayList<Sentence> text;
+    private ArrayList<Sentence> text;
 
-	public Text() {
-		text = new ArrayList<Sentence>();
-	}
-	
-	public void addSentence(String sentence) {
-		text.add(new Sentence(sentence));
-	}
+    public Text() {
+        text = new ArrayList<Sentence>();
+    }
 
-	public ArrayList<Sentence> getText() {
-		return text;
-	}
+    public void addSentence(String sentence) {
+        text.add(new Sentence(sentence));
+    }
 
-	@Override
-	public String toString() {
-		return text.toString();
-	}
-	
+    public ArrayList<Sentence> getText() {
+        return text;
+    }
+
+    @Override
+    public String toString() {
+        return text.toString();
+    }
+
 }
